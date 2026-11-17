@@ -34,7 +34,7 @@
    </br>
    <h2>Github Stats</h2>
    
-   ![](https://github-readme-stats.shion.dev/api?username=kjjyyy01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kjjyyy01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   ![](https://github-readme-stats.shion.dev/api?username=jongyeon01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jongyeon01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
