@@ -21,12 +21,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=jongyeon01&theme=github_dark&hide_border=true&show_icons=true"
+    src="https://github-readme-stats.shion.dev/api?username=jongyeon01&theme=github_dark&hide_border=true&show_icons=true&title_color=D97757&icon_color=D97757&text_color=FFFFFF&ring_color=D97757"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=jongyeon01&theme=github_dark&hide_border=true&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=jongyeon01&theme=github_dark&hide_border=true&layout=compact&title_color=D97757&text_color=FFFFFF"
     height="165"
     alt="Top Languages"
   />
@@ -45,19 +45,19 @@
 ### Frontend
 
 <div>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
 ### Backend & Database
 
 <div>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
 ### Tools
