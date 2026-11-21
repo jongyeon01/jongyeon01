@@ -6,20 +6,6 @@
     문제를 발견하고, 직접 만들고, 제품으로 해결합니다.
   </p>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EA%B9%80-a02aa2327">
-      <img width="56" height="56" alt="LinkedIn" src="https://github.com/user-attachments/assets/eb17324e-cf97-4a46-9f70-e1136af14f07" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.threads.net/@soma.in.dev">
-      <img width="56" height="56" alt="Threads" src="https://github.com/user-attachments/assets/54aeaa75-fda4-4bf2-8b83-ffaa371986eb" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://velog.io/@kjjyyy01">
-      <img width="56" height="56" alt="Velog" src="https://github.com/user-attachments/assets/43f1abe6-8b6c-4a55-8dc9-c9bb359b0a01" />
-    </a>
-  </div>
-
 </div>
 
 <br/>
